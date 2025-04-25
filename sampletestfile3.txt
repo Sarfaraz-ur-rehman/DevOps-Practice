@@ -3,3 +3,5 @@ adding more content
 this is the third file of develop
 
 
+checking diff command
+checking merge commands
